@@ -1,4 +1,4 @@
-#!/Users/rubensuardi/PycharmProjects/facebook_scraping/env/bin/python
+#!/home/rsuardi/PycharmProjects/facebook_scraping/env/bin/python
 
 import sys
 import getopt

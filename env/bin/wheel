@@ -1,4 +1,4 @@
-#!/Users/rubensuardi/PycharmProjects/facebook_scraping/env/bin/python2.7
+#!/home/rsuardi/PycharmProjects/facebook_scraping/env/bin/python3
 
 # -*- coding: utf-8 -*-
 import re
